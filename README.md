@@ -1,2 +1,3 @@
-# task3
-Added a context manager to the function to make it thread-safe.
+# Task3
+
+Найти и исправить ошибку (смотри вложенный файл), оставив многопоточность.
